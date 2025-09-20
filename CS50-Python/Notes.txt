@@ -1,0 +1,7 @@
+Parameter and Argument
+-----------------------
+
+They are both the same, just seen from different perspective
+
+Parameter - What the function takes
+Argument  - What is passed to the function
